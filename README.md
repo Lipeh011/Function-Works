@@ -1,5 +1,6 @@
 
 <h1> Enunciado </h1>
+<h2> 🍃 Elaborei em formato de menu de opções. <h2>
 <h3>
 ✅ 1) Quantos anos tem o seu pet?
 Você sabe quantos anos seu cachorro tem em anos humanos, mas e quanto aos anos de cachorro? 
