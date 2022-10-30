@@ -68,7 +68,7 @@ Ela deve:
 - Armazenar uma temperatura Celsius em uma variável.
 - Converter-la para  Fahrenheit e escrever a mensagem: "X° C é igual a Y° F". (X e Y são os valores que devem ser substituídos.) 
 
-Crie uma função chamada converterFahrenheitCelsius. 
+Crie uma função chamada converterFahrenheitCelsius
 Ela deve: 
 - Armazenar uma temperatura fahrenheit em uma variável.
 - Converter-la para Celsius e escrever a mensagem:  " X° F é igual a Y° C." (X e Y são os valores que devem ser substituídos.) 
